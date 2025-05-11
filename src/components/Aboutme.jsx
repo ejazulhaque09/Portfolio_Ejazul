@@ -9,7 +9,7 @@ export default function AboutMe() {
         About Me
       </h2>
 
-      <div className="bg-blue-400 dark:bg-green-700 p-6 rounded-xl shadow-sm text-gray-700 dark:text-gray-200 space-y-4">
+      <div className="bg-blue-500 dark:bg-green-700 p-6 rounded-xl shadow-sm text-gray-200 dark:text-gray-200 space-y-4">
         <p>
           Hi, I'm <strong>Ejazul Haque</strong> — a passionate full-stack
           developer skilled in building responsive web applications using the

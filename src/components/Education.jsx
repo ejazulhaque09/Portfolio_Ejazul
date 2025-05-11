@@ -5,7 +5,7 @@ export default function Education() {
   return (
     <section id="education" className="space-y-2">
       <h2 className="text-3xl font-semibold border-b-2 border-blue-700 dark:border-green-500 pb-1">Education</h2>
-      <div className="bg-blue-400 dark:bg-green-700 p-4 rounded-xl shadow-sm">
+      <div className="bg-blue-500 text-gray-200 dark:bg-green-700 p-4 rounded-xl shadow-sm">
         <p>
           <strong>B.Tech in Computer Science</strong> – Dr. A.P.J. Abdul Kalam Technical University
           <br />

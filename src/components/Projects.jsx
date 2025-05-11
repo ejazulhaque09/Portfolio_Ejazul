@@ -53,11 +53,11 @@ export default function Projects() {
             whileHover={{ scale: 1.03 }}
             transition={{ type: 'spring', stiffness: 300 }}
           >
-            <Card className="hover:shadow-xl bg-blue-500 dark:bg-green-700 transition-shadow duration-300 h-full">
+            <Card className="hover:shadow-xl bg-red-700 dark:bg-green-700 transition-shadow duration-300 h-full">
               <CardContent className="p-5 space-y-3">
-                <h3 className="text-xl font-bold text-gray-200">{project.title}</h3>
-                <p className="text-sm italic text-white">{project.stack}</p>
-                <p className="text-sm text-white">{project.description}</p>
+                <h3 className="text-xl font-bold text-blue-900 dark:text-white">{project.title}</h3>
+                <p className="text-sm italic text-blue-900 dark:text-white">{project.stack}</p>
+                <p className="text-sm text-blue-900 dark:text-white">{project.description}</p>
                 <a
                   href={project.link}
                   target="_blank"

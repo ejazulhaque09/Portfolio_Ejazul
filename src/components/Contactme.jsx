@@ -36,7 +36,7 @@ export default function ContactMe() {
       <form
         ref={formRef}
         onSubmit={handleSubmit}
-        className="bg-blue-500 dark:bg-green-700 p-6 rounded-xl shadow-sm space-y-4"
+        className="bg-blue-700 dark:bg-green-700 p-6 rounded-xl shadow-sm space-y-4"
       >
         <input type="hidden" name="contact_number" />
 

@@ -36,7 +36,7 @@ const Portfolio = () => {
         </button>
           <ul
           className={`${
-            menuOpen ? 'block flex flex-col min-h-screen' : 'hidden'
+            menuOpen ? 'block flex flex-col min-h-screen gap-20' : 'hidden'
           } absolute justify-center items-center top-full left-0 w-full bg-indigo-700 dark:bg-green-600 lg:static lg:flex lg:w-auto lg:items-center gap-6 font-medium`}
         >
             <li>

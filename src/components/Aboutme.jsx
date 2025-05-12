@@ -23,25 +23,25 @@ export default function AboutMe() {
             href="https://github.com/ejazulhaque09"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors"
+            className="hover:text-black dark:hover:text-black transition-colors"
           >
-            <Github size={24} />
+            <Github size={40} />
           </a>
           <a
-            href="https://twitter.com/your_twitter_username"
+            href="https://twitter.com/ejazul_haque09"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-500 dark:hover:text-blue-400 transition-colors"
           >
-            <Twitter size={24} />
+            <Twitter size={40} />
           </a>
           <a
             href="https://linkedin.com/in/ejazulhaque09"
             target="_blank"
             rel="noopener noreferrer"
-            className="hover:text-blue-700 dark:hover:text-blue-400 transition-colors"
+            className="hover:text-blue-900 dark:hover:text-blue-400 transition-colors"
           >
-            <Linkedin size={24} />
+            <Linkedin size={40} />
           </a>
         </div>
       </div>

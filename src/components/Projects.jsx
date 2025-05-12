@@ -38,7 +38,7 @@ const projects = [
     stack: 'React, Tailwind CSS',
     description:
       'This very portfolio website showcasing skills, projects, and education, with a modern UI/UX and responsive layout.',
-    link: 'https://ejazul-portfolio.netlify.app/',
+    link: 'https://github.com/ejazulhaque09/Portfolio_Ejazul/',
   },
 ];
 
